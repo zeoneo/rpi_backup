@@ -1,0 +1,2 @@
+start_file=start.elf
+fixup_file=fixup.dat
